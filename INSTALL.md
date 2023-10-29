@@ -5,16 +5,16 @@ Commands/Installations in order.
 2. Install vite using the command [npm create vite@latest], choose vue framework then JS variant.
 
 
-2. To install the needed node modules folder, use the command: [npm install]
+3. To install the needed node modules folder, use the command: [npm install]
 
 
-3.To install leaflet.js, cd to the directory and use the command: [npm install leaflet]
+4.To install leaflet.js, cd to the directory and use the command: [npm install leaflet]
 
 
-4. To install partytown, use the command: [yarn add "@builder.io/partytown"]
+5. To install partytown, use the command: [yarn add "@builder.io/partytown"]
 
    
-5. To  copy the Partytown library files into the specified directory within the project, use the command: [yarn partytown copylib public/~partytown]
+6. To  copy the Partytown library files into the specified directory within the project, use the command: [yarn partytown copylib public/~partytown]
 
 
 
