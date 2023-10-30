@@ -61,7 +61,7 @@ async function getLocation() {
   // I check if the map has already been initialized so that I don't create a new map, resulting in errors
 
   if(!map){
-    map = map.value
+    map.value
   }
 else{
 // I get the user's position using the geolocation API and then I asynchronously set the current latitude and longitude values of the marker to the user's current latitude and longitude values
