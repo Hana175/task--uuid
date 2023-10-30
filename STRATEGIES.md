@@ -48,3 +48,5 @@ Documentation and Comments
    
 
 By following these strategies, the implementation process was streamlined, resulting in a robust, performant, and maintainable application. These practices ensure code quality, enhance collaboration, and facilitate future enhancements and updates to the project.
+
+After running, make sure to activate the red marker by dragging it first then clicking on it to view it's location.
