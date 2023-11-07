@@ -43,7 +43,7 @@ onMounted( async () => {
       console.log("hey", secLat, secLng);
       
       marker.getPopup().setContent(`Latitude: ${secLat.toFixed(6)}, Longitude: ${secLng.toFixed(6)}`);
-      marker.getPopup().setContent(`Latitude: ${newLat.toFixed(6)}, Longitude: ${newLng.toFixed(6)}`);
+      // marker.getPopup().setContent(`Latitude: ${newLat.toFixed(6)}, Longitude: ${newLng.toFixed(6)}`);
 });
 
 // Attach popup to the marker
